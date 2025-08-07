@@ -1,4 +1,4 @@
-# boilerexams-project
+# stanford-open-policing-data-analysis
 
 ## AI Use
 - understanding the polars library & how to work with a large dataset
