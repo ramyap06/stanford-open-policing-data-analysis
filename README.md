@@ -25,7 +25,7 @@ Learning how to use various polars and matplotlib functions and what their purpo
     - "how do i sum all the true values of each county efficiently?"
 #### Matplotlib:
 
-- I didn't watch much AI, instead I watched a video to understand basic plots I could make
+- I didn't use much AI, instead I watched a video to understand basic plots I could make
 - when I got errors such as "array must be 2d" "bin must increase monotonically, when an array" I used AI to understand what they were saying and fixed my code accordingly
 
 #### Report
